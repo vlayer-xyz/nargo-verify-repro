@@ -1,0 +1,4 @@
+[package]
+name = "repro"
+type = "bin"
+compiler_version = "0.23.0"
